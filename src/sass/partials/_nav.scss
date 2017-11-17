@@ -1,0 +1,28 @@
+.list{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  list-style: none;
+  padding-top: 20px;
+  text-transform: uppercase;
+
+  li{
+    font-size: 1.2rem;
+    font-weight: normal;
+
+    a{
+      text-decoration: none;
+      color: black;
+      padding: 0 20px;
+
+      &:hover{
+        border: 0.5px solid black;
+      }
+    }
+  }
+}
+
+.sliderContainer{
+  position: relative;
+
+}

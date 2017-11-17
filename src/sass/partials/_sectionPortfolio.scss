@@ -1,0 +1,61 @@
+
+.portf {
+  p{
+    margin-top: 30px;
+    font-size: 1.5em;
+
+  }
+
+  .portfolio {
+    height: 2600px;
+
+    div.row {
+
+      display: flex;
+      align-items: center;
+      position: relative;
+
+
+      div.portfolioPict {
+
+        height: 400px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: 1% 22%;
+
+      }
+
+      span{
+        font-size: 1.5em;
+        font-weight: 100;
+        width:56%;
+        height: 90px;
+        position: absolute;
+        z-index: 2;
+        left:264px;
+        bottom: 12px;
+        background-color: rgba(255, 255, 255, 0.4);
+        text-align: center;
+
+
+        a{
+          color: black;
+          text-decoration: none;
+          font-weight: normal;
+          padding:302px 672px 2px 671px;
+
+          p{
+            font-size: 1em;
+            margin-top:0;
+          }
+        }
+      }
+
+      &:hover {
+        opacity: 0.7;
+      }
+    }
+  }
+}
+

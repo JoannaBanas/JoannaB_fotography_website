@@ -1,0 +1,70 @@
+.contactUs{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+  .letsTalk {
+    margin-top: 8em;
+    text-align: center;
+    color: white;
+
+    h2 {
+      padding: 2em;
+    }
+
+    p {
+      padding: 2em;
+
+    }
+  }
+
+  .form {
+    margin-top: 30px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+    label {
+      display: block;
+      color: white;
+      text-align: center;
+    }
+
+    input {
+      height: 30px;
+      width: 450px;
+      margin: 7px;
+      border: 0.3px solid lightgray;
+      opacity: 0.3;
+      font-size: 20px;
+      &:focus {
+        border: 0.5px solid lightgray;
+        opacity: 0.7;
+      }
+    }
+
+    textarea {
+      height: 200px;
+      width: 450px;
+      margin: 7px;
+      resize: none;
+      border: 0.3px solid lightgray;
+      opacity: 0.3;
+      font-size: 20px;
+
+      &:focus {
+        border: 0.5px solid lightgray;
+        opacity: 0.7;
+      }
+    }
+
+    button{
+      width: 200px;
+      height: 50px;
+      opacity: 0.7;
+    }
+  }

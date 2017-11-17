@@ -1,0 +1,438 @@
+{
+  "pictures": [
+    {
+      "id" : 1,
+      "name": "../../images/portret4.jpg",
+      "orient": "pion",
+      "category" : "portrait"
+    },
+    {
+      "id" : 2,
+      "name": "../../images/portret7.jpg",
+      "orient":"pion",
+      "category" : "portrait"
+    },
+    {
+      "id" : 3,
+      "name": "../../images//portret.jpg",
+      "orient": "pion",
+      "category" : "portrait"
+    },
+    {
+      "id" : 4,
+      "name": "../../images/portret6.jpg",
+      "orient": "pion",
+      "category" : "portrait"
+    },
+    {
+      "id" : 5,
+      "name": "../../images/portret2.jpg",
+      "orient":"poziom",
+      "category" : "portrait"
+    },
+    {
+      "id" : 6,
+      "name": "../../images/portret3.jpg",
+      "orient":"poziom",
+      "category" : "portrait"
+    },
+    {
+      "id" : 7,
+      "name": "../../images//portret5.jpg",
+      "orient": "poziom",
+      "category" : "portrait"
+    },
+    {
+      "id" : 8,
+      "name": "../../images//portret8.jpg",
+      "orient": "poziom",
+      "category" : "portrait"
+    },
+    {
+      "id" : 9,
+      "name": "../../images//DSC_0037.jpg",
+      "orient": "pion",
+      "category" : "portrait"
+    },
+    {
+      "id" : 10,
+      "name": "../../images//DSC_0121.jpg",
+      "orient": "poziom",
+      "category" : "portrait"
+    },
+    {
+      "id" : 11,
+      "name": "../../images//DSC_0217.jpg",
+      "orient": "pion",
+      "category" : "portrait"
+    },
+    {
+      "id" : 12,
+      "name": "../../images//DSC_0281-2.jpg",
+      "orient": "pion",
+      "category" : "portrait"
+    },
+    {
+      "name": "../../images/lucek.jpg",
+      "orient": "pion",
+      "category" : "kids"
+    },
+    {
+      "id" : 13,
+      "name": "../../images/DSC_0235.jpg",
+      "orient":"pion",
+      "category" : "kids"
+    },
+    {
+      "name": "../../images//DSC_0165-2.jpg",
+      "orient": "pion",
+      "category" : "kids"
+    },
+    {
+      "id" : 14,
+      "name": "../../images/DSC_0184.jpg",
+      "orient": "poziom",
+      "category" : "kids"
+    },
+    {
+      "id" : 15,
+      "name": "../../images//DSC_0194.jpg",
+      "orient":"pion",
+      "category" : "kids"
+    },
+    {
+      "id" : 16,
+      "name": "../../images/DSC_0239-2.jpg",
+      "orient":"poziom",
+      "category" : "kids"
+    },
+    {
+      "id" : 17,
+      "name": "../../images/DSC_0712.jpg",
+      "orient":"poziom",
+      "category" : "kids"
+    },
+    {
+      "id" : 18,
+      "name": "../../images/DSC_0749.jpg",
+      "orient":"poziom",
+      "category" : "kids"
+    },
+    {
+      "id" : 19,
+      "name": "../../images/DSC_0258.jpg",
+      "orient": "poziom",
+      "category" : "wedding"
+    },
+    {
+      "id" : 20,
+      "name": "../../images/DSC_0948.jpg",
+      "orient": "pion",
+      "category" : "wedding"
+    },
+    {
+      "id" : 21,
+      "name": "../../images/DSC_0199.jpg",
+      "orient":"poziom",
+      "category" : "wedding"
+    },
+    {"id" : 22,
+      "name": "../../images/DSC_0702.jpg",
+      "orient":"poziom",
+      "category" : "wedding"
+    },
+    {"id" : 23,
+      "name": "../../images/DSC_0750.jpg",
+      "orient": "poziom",
+      "category" : "wedding"
+    },
+    {
+      "id" : 24,
+      "name": "../../images/DSC_0941.jpg",
+      "orient": "poziom",
+      "category" : "wedding"
+    },
+    {
+      "id" : 25,
+      "name": "../../images/DSC_0955.jpg",
+      "orient": "poziom",
+      "category" : "wedding"
+    },
+    {
+      "id" : 26,
+      "name": "../../images/DSC_0004.jpg",
+      "orient": "poziom",
+      "category" : "wedding"
+    },
+    {
+      "id" : 27,
+      "name": "../../images/DSC_0251-2.jpg",
+      "orient": "poziom",
+      "category" : "animals"
+    },
+    {
+      "id" : 28,
+      "name": "../../images/DSC_0350.jpg",
+      "orient": "poziom",
+      "category" : "animals"
+    },
+    {
+      "id" : 29,
+      "name": "../../images/DSC_0656.jpg",
+      "orient": "poziom",
+      "category" : "animals"
+    },
+    {
+      "id" : 30,
+      "name": "../../images/kon.jpg",
+      "orient": "poziom",
+      "category" : "animals"
+    },{
+      "id" : 31,
+      "name": "../../images/kot.jpg",
+      "orient": "poziom",
+      "category" : "animals"
+    },
+    {
+      "id" : 32,
+      "name": "../../images/kot2.jpg",
+      "orient": "pion",
+      "category" : "animals"
+    },{
+      "id" : 33,
+      "name": "../../images/kot3.jpg",
+      "orient": "poziom",
+      "category" : "animals"
+    },
+    {
+      "id" : 34,
+      "name": "../../images/kot4.jpg",
+      "orient": "poziom",
+      "category" : "animals"
+    },{
+      "id" : 35,
+      "name": "../../images/kot5.jpg",
+      "orient": "poziom",
+      "category" : "animals"
+    },{
+      "id" : 36,
+      "name": "../../images/krowa.jpg",
+      "orient": "pion",
+      "category" : "animals"
+    },
+    {
+      "id" : 37,
+      "name": "../../images/krowa2.jpg",
+      "orient": "pion",
+      "category" : "animals"
+    },
+    {
+      "id" : 38,
+      "name": "../../images/krowa3.jpg",
+      "orient": "poziom",
+      "category" : "animals"
+    },{
+      "id" : 39,
+      "name": "../../images/osiol.jpg",
+      "orient": "poziom",
+      "category" : "animals"
+    },
+    {
+      "id" : 40,
+      "name": "../../images/owca.jpg",
+      "orient": "poziom",
+      "category" : "animals"
+    },{
+      "id" : 41,
+      "name": "../../images/pies.jpg",
+      "orient": "poziom",
+      "category" : "animals"
+    },
+    {
+      "id" : 42,
+      "name": "../../images/pies3.jpg",
+      "orient": "pion",
+      "category" : "animals"
+    },
+    {
+      "id" : 43,
+      "name": "../../images/pies4.jpg",
+      "orient": "pion",
+      "category" : "animals"
+    },{
+      "id" : 44,
+      "name": "../../images/slon.jpg",
+      "orient": "poziom",
+      "category" : "animals"
+    },
+    {
+      "id" : 45,
+      "name": "../../images/szczur.jpg",
+      "orient": "pion",
+      "category" : "animals"
+    },{
+      "id" : 46,
+      "name": "../../images/zygzak.jpg",
+      "orient": "pion",
+      "category" : "animals"
+    },
+    {
+    "id" : 47,
+    "name": "../../images/zygzak2.jpg",
+    "orient": "poziom",
+    "category" : "animals"
+    },
+    {
+    "id" : 48,
+    "name": "../../images/zyzgak3.jpg",
+    "orient": "poziom",
+    "category" : "animals"
+    },
+    {
+    "id" : 49,
+    "name": "../../images/.jpg",
+    "orient": "",
+    "category" : "travel"
+    },
+    {
+    "id" : 50,
+    "name": "../../images/italia2.jpg",
+    "orient": "poziom",
+    "category" : "travel"
+    },
+    {
+    "id" : 51,
+    "name": "../../images/italia3.jpg",
+    "orient": "poziom",
+    "category" : "travel"
+    },
+    {
+    "id" : 52,
+    "name": "../../images/italy.jpg",
+    "orient": "poziom",
+    "category" : "travel"
+    },
+    {
+    "id" : 53,
+    "name": "../../images/krk.jpg",
+    "orient": "poziom",
+    "category" : "travel"
+    },
+    {
+    "id" : 54,
+    "name": "../../images/krokus.jpg",
+    "orient": "poziom",
+    "category" : "travel"
+    },
+    {
+      "id" : 55,
+      "name": "../../images/praga.jpg",
+      "orient": "poziom",
+      "category" : "travel"
+    },
+    {
+      "id" : 56,
+      "name": "../../images/praga2.jpg",
+      "orient": "pion",
+      "category" : "travel"
+    },
+    {
+      "id" : 57,
+      "name": "../../images/praga3.jpg",
+      "orient": "pion",
+      "category" : "travel"
+    },
+    {
+      "id" : 58,
+      "name": "../../images/afryka.jpg",
+      "orient": "poziom",
+      "category" : "travel"
+    },
+    {
+      "id" : 59,
+      "name": "../../images/afryka2.jpg",
+      "orient": "poziom",
+      "category" : "travel"
+    },
+    {
+      "id" : 60,
+      "name": "../../images/budapeszt.jpg",
+      "orient": "poziom",
+      "category" : "travel"
+    },
+    {
+      "id" : 61,
+      "name": "../../images/budapeszt2.jpg",
+      "orient": "pion",
+      "category" : "travel"
+    },
+    {
+      "id" : 62,
+      "name": "../../images/croatia.jpg",
+      "orient": "poziom",
+      "category" : "travel"
+    },
+    {
+      "id" : 63,
+      "name": "../../images/croatia2.jpg",
+      "orient": "poziom",
+      "category" : "travel"
+    },
+    {
+      "id" : 64,
+      "name": "../../images/croatia4.jpg",
+      "orient": "poziom",
+      "category" : "travel"
+    },
+    {
+      "id" : 65,
+      "name": "../../images/croatia5.jpg",
+      "orient": "poziom",
+      "category" : "travel"
+    },
+    {
+      "id" : 66,
+      "name": "../../images/DSC_0137.jpg",
+      "orient": "poziom",
+      "category" : "other"
+    },
+    {
+      "id" : 67,
+      "name": "../../images/DSC_0514.jpg",
+      "orient": "poziom",
+      "category" : "other"
+    },
+    {
+      "id" : 68,
+      "name": "../../images/DSC_0524.jpg",
+      "orient": "pion",
+      "category" : "other"
+    },
+    {
+      "id" : 69,
+      "name": "../../images/DSC_0532-2.jpg",
+      "orient": "poziom",
+      "category" : "other"
+    },
+    {
+      "id" : 70,
+      "name": "../../images/DSC_0536.jpg",
+      "orient": "pion",
+      "category" : "other"
+    },
+    {
+      "id" : 71,
+      "name": "../../images/DSC_0550.jpg",
+      "orient": "pion",
+      "category" : "other"
+    },
+    {
+      "id" : 72,
+      "name": "../../images/DSC_0568.jpg",
+      "orient": "pion",
+      "category" : "other"
+    }
+
+
+  ]
+}

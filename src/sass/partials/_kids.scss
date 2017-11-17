@@ -1,0 +1,30 @@
+section.pic {
+
+  .picture {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    //justify-content: space-between;
+    width: 100%;
+    height: 950px;
+    padding-top: 100px;
+
+    .pion {
+      height: 90%;
+      width: 600px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+    }
+
+    .poziom {
+      height: 90%;
+      width: 70%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+    }
+  }
+}
